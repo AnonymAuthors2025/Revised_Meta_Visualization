@@ -1,1 +1,7 @@
+In Stage 2, we describe data integration from the prepared datasets. This folder contains a notebook and related source data extracted from stage 1:
+- soil.csv, for extracted soil properties.
+- climat_stat.csv for extracted data from FAO/Aquastat weather website.
+- sample.csv for IoT data from different soil samples,
+- and prop.csv: scraped data related to crop properties.
 
+The folder also containes the entire relational database (my_database.db).
