@@ -1,1 +1,15 @@
+In this Repository, we provide a complete integrated example of our general framework combining the three stages (repos. Stage 1, 2, and 3).
 
+This example will be a unified end-to-end project on precision agriculture.
+
+The idea is not to reproduce what we have already mentionned in the separated stages repositories, which contain generic tools and processes examples. We want to show specific details related to our specific case study:
+
+- Framing the problem
+
+- Chosen tools and processes in each stage
+
+- Quality measuring and partial validations
+
+- Crop recommendation demo.
+
+- Global validation roadmap
