@@ -7,6 +7,8 @@ Stage 2: Data integration tools
 
 Stage 3: Data visualization tools
 
-We also provide a case study on precision agriculture to illustrate the different stages in one project.
+- We also provide a case study on precision agriculture to illustrate the different stages in one project.
+  
+- A Validation Roadmap file is given to illustrate the phases and participants in partial and global validations.
 
 Each repository contains a set of data, figures, and a notebook with detailed instructions.
